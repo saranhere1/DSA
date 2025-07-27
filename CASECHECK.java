@@ -7,7 +7,10 @@ public class CASECHECK {
         if (ch >= 'a' && ch <= 'z'){
             System.out.println("given charecter is lowecase");
         } else {
-            System.out.println("given cnnnnharecter is not lower case");
+            System.out.println("given chaecter is not lower case");
         }
+        System.out.println("given character is " 
+        );
     }
 }
+
